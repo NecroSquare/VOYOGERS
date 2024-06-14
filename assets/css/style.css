@@ -140,14 +140,16 @@ nav > .navigation-header{
 }
 
 .btn-outline-primary{
-    background-color: white;
-    border: 3px solid #FF9045;
-    color: #FF9045;
+    background-color: #5AB2FF;
+    border: 3px solid #2d89da;
+    color: white;
+
+    transition: .2s;
 }
 
 .btn-outline-primary:hover{
-    background-color: #FF9045;
-    color: white;
+    background-color: white;
+    color: #2d89da;
 }
 
 #tentang-kami{
